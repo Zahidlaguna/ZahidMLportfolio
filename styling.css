@@ -14,7 +14,7 @@ body {
     color: white;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
@@ -25,6 +25,10 @@ h1 {
 
 h2 {
     color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: #ff8102;
 }
 
 .navbar {
